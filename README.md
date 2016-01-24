@@ -1,3 +1,3 @@
 # css_practice
 
-每天三个，go！
+每天进步，go！
